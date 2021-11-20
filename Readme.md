@@ -20,32 +20,32 @@
 ### 1. Install Scriptable app from Appstore.
 
 ### 2. Add a script to the Scriptable App.
-    - Go to [naver-map-mylist-random-select.js](https://github.com/jan9won/naver-map-mylist-random-select/naver-map-mylist-random-select.js) and copy the whole code
-    - Open Scriptable app
-    - Click *+* button to add new script
-    - Paste code
-    - Rename the script by your preference.
-    - Click done
+- Go to [naver-map-mylist-random-select.js](https://github.com/jan9won/naver-map-mylist-random-select/naver-map-mylist-random-select.js) and copy the whole code
+- Open Scriptable app
+- Click *+* button to add new script
+- Paste code
+- Rename the script by your preference.
+- Click done
 
 ### 3. Get the link to your place list.
-    - Open Naver Map app.
-    - Go to *My*
-    - Go to *저장*
-    - Click triple dot menu next to your list.
-    - Click *공유하기*
-    - Click *URL 복사*
+- Open Naver Map app.
+- Go to *My*
+- Go to *저장*
+- Click triple dot menu next to your list.
+- Click *공유하기*
+- Click *URL 복사*
 
 ### 4. Open Shortcut app and create a shortcut.
-    - Click *+* button to add new Shortcut
-    - Click *Add Action* button and search Scriptable
-    - Select *Run Script*
-    - Click *Script* and select the script we added.
-    - Click *>* button next tothe *Parameter* button to open options.
-    - Under the *Texts*, click *Add new item*, and paste url to your list.
+- Click *+* button to add new Shortcut
+- Click *Add Action* button and search Scriptable
+- Select *Run Script*
+- Click *Script* and select the script we added.
+- Click *>* button next tothe *Parameter* button to open options.
+- Under the *Texts*, click *Add new item*, and paste url to your list.
 
 ### 5. Add to HomeScreen and Siri
-    - You can simply rename the Shortcut's name and it will be a Siri command.
-    - Click share button and add to home screen.
+- You can simply rename the Shortcut's name and it will be a Siri command.
+- Click share button and add to home screen.
 
 ---
 

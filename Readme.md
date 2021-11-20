@@ -20,7 +20,7 @@
 ### 1. Install Scriptable app from Appstore.
 
 ### 2. Add a script to the Scriptable App.
-- Go to [naver-map-mylist-random-select.js](https://github.com/jan9won/naver-map-mylist-random-select/naver-map-mylist-random-select.js) and copy the whole code
+- Go to [naver-map-mylist-random-select.js](https://github.com/jan9won/naver-map-mylist-random-select/blob/main/naver-map-mylist-random-select.js) and copy the whole code
 - Open Scriptable app
 - Click *+* button to add new script
 - Paste code

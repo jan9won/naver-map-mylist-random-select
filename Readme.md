@@ -33,7 +33,7 @@
 - Go to *저장*
 - Click triple dot menu next to your list.
 - Click *공유하기*
-- Click *URL 복사*
+- Click *URL 복사* (URL should look like "http://naver.me/5whaH5Sw")
 
 ### 4. Open Shortcut app and create a shortcut.
 - Click *+* button to add new Shortcut

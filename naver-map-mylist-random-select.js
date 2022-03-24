@@ -1,9 +1,6 @@
 
 
-const naverListShareAddress =
-// args.plainTexts[0]
-"http://naver.me/5whaH5Sw"
-;
+const naverListShareAddress = args.plainTexts[0];
 
 console.log(naverListShareAddress)
 

@@ -1,17 +1,11 @@
 # naver-map-mylist-random-select
 
-> This script is for IOS Shortcut & Scriptable.
->
 > This script will select a random place from Naver Map's (public) MyList. And then open Naver Map app to find directions to the place. 
->
-> I made this for people like me, who has added 100+ cafes to a MyList, yet still can't choose which one to go. Sometimes the best way to overcome Analysis Paralysis is to choose 'whatever'.😌
+> This script requires IOS Shortcut & Scriptable.
 
-
-> 이 스크립트는 IOS 단축어와 Scriptable 앱을 활용합니다.
->
 > 이 스크립트는 네이버 지도의 (공개) 마이리스트에서, 한 장소를 랜덤하게 선택하고, 앱에서 길찾기를 실행합니다.
->
-> 매번 어떤 카페를 갈지 고민하다가 즐겨찾기만 100개씩이 되어가는 저같은 분들을 위해 만들었습니다. 때론 Analysis Paralysis 에서 벗어나는 가장 빠른 방법은 '아무거나' 입니다. 😌
+> 이 스크립트를 실행하려면 OS 단축어와 Scriptable 앱이 필요합니다.
+
 
 ---
 
